@@ -20,7 +20,7 @@ Checked it by putting these back into the original equations and comparing to th
 
 ## Files
 
-- fit_curve.m - the matlab script
+- flam_assg.mlx - the matlab live script
 - xy_data.csv - given data
 
 Run fit_curve.m with xy_data.csv in the same folder, it prints the theta, M, X values.
