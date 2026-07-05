@@ -8,7 +8,7 @@ I noticed the equations are basically just a rotation. If you take t and R(t) = 
 
 So I did the opposite - rotated the given x,y points backwards by theta and subtracted X, 42. If theta and X are correct, this should give back t and R(t) exactly.
 
-Used this to write a small least squares fit in MATLAB (tried a bunch of random starting points so it doesn't get stuck) to find theta, M, X that make this work for all the points.
+Used this to write a small least squares fit in MATLAB to find theta, M, X that make this work for all the points.
 
 ## Answer
 
