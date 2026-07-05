@@ -1,7 +1,5 @@
 # flam_ai-rd_assg
 
-# AI R&D Assignment
-
 Had to find theta, M and X for the curve equation given, using the xy_data.csv points.
 
 ## How I did it
